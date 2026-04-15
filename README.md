@@ -9,6 +9,6 @@ Desarrollar un sistema de chat que permita la comunicación entre usuarios media
 2) Mensaje
 3) Chat
 ## Paquetes
-Net => Conexion TCP entre clientes
-Bufio => Escritura i/o de texto
-sync => Sirve para el control de concurrencia
+- Net => Conexion TCP entre clientes
+- Bufio => Escritura i/o de texto
+- sync => Sirve para el control de concurrencia
